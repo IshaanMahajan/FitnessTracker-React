@@ -10,7 +10,6 @@ const Signup = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Add your sign up logic here
     showAlertSignUp();
   };
 
